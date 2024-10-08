@@ -1,0 +1,16 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "Backend practice code",
+  "main": "index.js",
+  "test": "module",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "author": "Anish Tanwar",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.7",
+    "prettier": "^3.3.3"
+  }
+}
